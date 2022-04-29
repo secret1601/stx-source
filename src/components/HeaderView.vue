@@ -202,7 +202,7 @@
 
     .logo {
         position: absolute;
-        right: 100%;
+        right: 92%;
         top: 50%;
         /* 보이는 내용물만 옮겨라. */
         transform: translate(-150px, -50%);
@@ -295,7 +295,7 @@
 
     .language {
         position: absolute;
-        left: 100%;
+        left: 95%;
         top: 50%;
         transform: translate(150px, -50%);
         display: block;
